@@ -1,1 +1,0 @@
- game.splash("Hello World!")
